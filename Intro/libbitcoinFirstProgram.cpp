@@ -2,6 +2,7 @@
 #include <string.h>
 #include <iostream>
 
+// http://aaronjaramillo.org/libbitcoin-first-program
 using namespace bc;
 
 int main()

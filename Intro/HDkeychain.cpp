@@ -3,6 +3,7 @@
 #include <iostream>
 #include <sstream>
 
+//#http://aaronjaramillo.org/libbitcoin-hd-keys
 using namespace bc;
 
 int main()
